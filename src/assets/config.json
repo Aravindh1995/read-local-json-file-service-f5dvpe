@@ -1,0 +1,19 @@
+{
+  "PersonalInfolistModel": [
+    {
+      "EmployeeCode": "1116",
+      "EmployeeName": "B Rama Krishna Reddy",
+      "EmployeeDesignation": "SCIENTIST 'E'",
+      "Salary": "50000"
+    },
+     {
+      "EmployeeCode": "1234",
+      "EmployeeName": "aravindh",
+      "EmployeeDesignation": "SCIENTIST 'E'",
+      "Salary": "50000"
+    }
+  ]
+
+}
+
+
